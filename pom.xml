@@ -12,6 +12,7 @@
     <artifactId>helloworld-syso</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>helloworld-syso</name>
+    <packaging>war</packaging>
     <description>Demo project for Spring Boot</description>
 
     <properties>
